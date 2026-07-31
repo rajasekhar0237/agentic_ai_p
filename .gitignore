@@ -1,2 +1,7 @@
 # Environment variables / API keys
 .env
+# Pickle files (trained models)
+.pkl
+.pickle
+# Streamlit secrets
+.streamlit/secrets.toml
